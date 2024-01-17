@@ -1,0 +1,353 @@
+[
+    {
+        "name": "AB InBev",
+        "logo": "abinbev.png",
+        "country": "Bélgica",
+        "beers": [
+            {
+                "name": "Stella Artois",
+                "alcoholContent": 5.0,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "stella.jpg"
+            },
+            {
+                "name": "Budweiser",
+                "alcoholContent": 5.0,
+                "calories": 145,
+                "type": "Lager",
+                "logo": "budweiser.jpg"
+            },
+            {
+                "name": "Corona",
+                "alcoholContent": 4.6,
+                "calories": 148,
+                "type": "Pale Lager",
+                "logo": "corona.jpg"
+            },
+            {
+                "name": "Leffe",
+                "alcoholContent": 6.6,
+                "calories": 220,
+                "type": "Abbey Beer",
+                "logo": "leffe.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Heineken",
+        "logo": "heineken.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Heineken",
+                "alcoholContent": 5.0,
+                "calories": 142,
+                "type": "Lager",
+                "logo": "heineken.jpg"
+            },
+            {
+                "name": "Amstel",
+                "alcoholContent": 5.0,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "amstel.jpg"
+            },
+            {
+                "name": "Desperados",
+                "alcoholContent": 5.9,
+                "calories": 200,
+                "type": "Flavored",
+                "logo": "desperados.jpg"
+            },
+            {
+                "name": "Affligem",
+                "alcoholContent": 6.8,
+                "calories": 230,
+                "type": "Abbey Beer",
+                "logo": "affligem.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Asahi",
+        "logo": "asahi.png",
+        "country": "Japón",
+        "beers": [
+            {
+                "name": "Asahi Super Dry",
+                "alcoholContent": 5.0,
+                "calories": 140,
+                "type": "Lager",
+                "logo": "asahi_super_dry.jpg"
+            },
+            {
+                "name": "Asahi Black",
+                "alcoholContent": 5.5,
+                "calories": 160,
+                "type": "Dark Lager",
+                "logo": "asahi_black.jpg"
+            },
+            {
+                "name": "Asahi Gold",
+                "alcoholContent": 6.0,
+                "calories": 170,
+                "type": "Premium",
+                "logo": "asahi_gold.jpg"
+            },
+            {
+                "name": "Asahi Prime Time",
+                "alcoholContent": 5.5,
+                "calories": 150,
+                "type": "Pale Ale",
+                "logo": "asahi_prime_time.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Carlsberg",
+        "logo": "carlsberg.png",
+        "country": "Dinamarca",
+        "beers": [
+            {
+                "name": "Carlsberg",
+                "alcoholContent": 5.0,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "carlsberg.jpg"
+            },
+            {
+                "name": "Carlsberg Elephant",
+                "alcoholContent": 7.2,
+                "calories": 250,
+                "type": "Strong Lager",
+                "logo": "carlsberg_elephant.jpg"
+            },
+            {
+                "name": "Carlsberg Nordic",
+                "alcoholContent": 0.5,
+                "calories": 50,
+                "type": "Non-Alcoholic",
+                "logo": "carlsberg_nordic.jpg"
+            },
+            {
+                "name": "Carlsberg Chill",
+                "alcoholContent": 4.3,
+                "calories": 120,
+                "type": "Light Lager",
+                "logo": "carlsberg_chill.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Molson Coors",
+        "logo": "molsoncoors.png",
+        "country": "Canadá",
+        "beers": [
+            {
+                "name": "Coors Light",
+                "alcoholContent": 4.2,
+                "calories": 102,
+                "type": "Light Lager",
+                "logo": "coors_light.jpg"
+            },
+            {
+                "name": "Miller Lite",
+                "alcoholContent": 4.2,
+                "calories": 96,
+                "type": "Light Lager",
+                "logo": "miller_lite.jpg"
+            },
+            {
+                "name": "Blue Moon",
+                "alcoholContent": 5.4,
+                "calories": 171,
+                "type": "Belgian White",
+                "logo": "blue_moon.jpg"
+            },
+            {
+                "name": "Leinenkugel's Summer Shandy",
+                "alcoholContent": 4.2,
+                "calories": 128,
+                "type": "Shandy",
+                "logo": "leinenkugels_summer_shandy.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Mahou San Miguel",
+        "logo": "mahousm.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Mahou Clásica",
+                "alcoholContent": 5.5,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "mahou_clasica.jpg"
+            },
+            {
+                "name": "San Miguel Especial",
+                "alcoholContent": 5.4,
+                "calories": 140,
+                "type": "Lager",
+                "logo": "san_miguel_especial.jpg"
+            },
+            {
+                "name": "Alhambra Reserva 1925",
+                "alcoholContent": 6.4,
+                "calories": 190,
+                "type": "Strong Lager",
+                "logo": "alhambra_reserva_1925.jpg"
+            },
+            {
+                "name": "Mahou 5 Estrellas",
+                "alcoholContent": 5.5,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "mahou_5_estrellas.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Grupo Damm",
+        "logo": "damm.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Estrella Damm",
+                "alcoholContent": 5.4,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "estrella_damm.jpg"
+            },
+            {
+                "name": "Inedit",
+                "alcoholContent": 4.8,
+                "calories": 180,
+                "type": "Witbier",
+                "logo": "inedit.jpg"
+            },
+            {
+                "name": "Free Damm",
+                "alcoholContent": 0.0,
+                "calories": 20,
+                "type": "Non-Alcoholic",
+                "logo": "free_damm.jpg"
+            },
+            {
+                "name": "Daura",
+                "alcoholContent": 5.4,
+                "calories": 135,
+                "type": "Gluten-Free",
+                "logo": "daura.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Hijos de Rivera",
+        "logo": "rivera.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Estrella Galicia",
+                "alcoholContent": 5.5,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "estrella_galicia.jpg"
+            },
+            {
+                "name": "1906 Reserva Especial",
+                "alcoholContent": 6.5,
+                "calories": 200,
+                "type": "Strong Lager",
+                "logo": "1906_reserva_especial.jpg"
+            },
+            {
+                "name": "Estrella Galicia 0,0",
+                "alcoholContent": 0.0,
+                "calories": 15,
+                "type": "Non-Alcoholic",
+                "logo": "estrella_galicia_0_0.jpg"
+            },
+            {
+                "name": "1906 Black Coupage",
+                "alcoholContent": 7.2,
+                "calories": 250,
+                "type": "Black Lager",
+                "logo": "1906_black_coupage.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Compañía Cervecera de Canarias",
+        "logo": "cccanarias.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Dorada Especial",
+                "alcoholContent": 5.5,
+                "calories": 150,
+                "type": "Lager",
+                "logo": "dorada_especial.jpg"
+            },
+            {
+                "name": "Tropical",
+                "alcoholContent": 4.7,
+                "calories": 140,
+                "type": "Lager",
+                "logo": "tropical.jpg"
+            },
+            {
+                "name": "Dorada Pilsner",
+                "alcoholContent": 5.0,
+                "calories": 160,
+                "type": "Pilsner",
+                "logo": "dorada_pilsner.jpg"
+            },
+            {
+                "name": "Dorada Sin",
+                "alcoholContent": 0.0,
+                "calories": 10,
+                "type": "Non-Alcoholic",
+                "logo": "dorada_sin.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Grupo Ágora",
+        "logo": "agora.png",
+        "country": "Spain",
+        "beers": [
+            {
+                "name": "Agora Blonde",
+                "alcoholContent": 5.2,
+                "calories": 160,
+                "type": "Blonde Ale",
+                "logo": "agora_blonde.jpg"
+            },
+            {
+                "name": "Agora Amber",
+                "alcoholContent": 5.4,
+                "calories": 170,
+                "type": "Amber Ale",
+                "logo": "agora_amber.jpg"
+            },
+            {
+                "name": "Agora IPA",
+                "alcoholContent": 6.0,
+                "calories": 180,
+                "type": "India Pale Ale",
+                "logo": "agora_ipa.jpg"
+            },
+            {
+                "name": "Agora Stout",
+                "alcoholContent": 7.0,
+                "calories": 200,
+                "type": "Stout",
+                "logo": "agora_stout.jpg"
+            }
+        ]
+    }
+]
+ 
